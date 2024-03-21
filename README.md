@@ -10,9 +10,9 @@
 
 |  &emsp;&emsp;&emsp;&emsp;&emsp; ♾️ Education ♾️  | 🔥 Github state 🔥 |
 |       :-----       |       :-----:       |
-|📕 Java/Spring Web Dev Course(1040h) </br> 📗 Cloud-based Web Dev Course(300h) </br>                                                             🎓 IIPTI. Intellectual Property </br> 🎓 BDES. Computer Science </br> 🎓 KNOU. Statistics & Data Science </br>                                      |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiverlog&layout=compact&langs_count=16&card_width=320)|
+|📕 Java/Spring Web Dev Course(1040h) </br> 📗 Cloud-based Web Dev Course(300h) </br>  📙 Polytech Smart Software High-tech Course(1200h) </br>                                                              🎓 IIPTI. Intellectual Property </br> 🎓 BDES. Computer Science </br> 🎓 KNOU. Statistics & Data Science </br>                                      |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiverlog&layout=compact&langs_count=16&card_width=320)|
 
 | 🚀 Back Stack 🚀  | 🛩️ Frond Stack 🛩️ | 💻 Setting & Framwork 💻 |
 |      :-----:       |      :-----:       |          :-----:          |
-|[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,php,ruby,nodejs,mysql,postgres,mongodb&perline=3)](https://skillicons.dev)             |[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,vue,svelte&perline=3)](https://skillicons.dev)                         |[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,aws,azure,cloudflare,spring,selenium,hibernate&perline=3)](https://skillicons.dev)|
+|[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,php,ruby,nodejs&perline=3)](https://skillicons.dev)             |[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vue,svelte&perline=3)](https://skillicons.dev)                         |[![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,azure,django,spring,selenium,hibernate,rust&perline=4)](https://skillicons.dev)|
 </div>
